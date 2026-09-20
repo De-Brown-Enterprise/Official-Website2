@@ -1,4 +1,4 @@
-D.BROWN GLOBAL TALENT TECH LTD — WEBSITE FOLDER
+D.BROWN GLOBAL FREELANCE LTD — WEBSITE FOLDER
 
 This is a standalone static website. No plugins, installation, build tools,
 PHP, or database are required. All website source files are included.
